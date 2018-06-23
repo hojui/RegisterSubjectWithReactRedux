@@ -5,11 +5,13 @@
 - can register subject from subject
 
 install
-'''
+
+```
 npm install
-'''
+```
 
 run
-'''
+
+```
 npm run start
-'''
+```
